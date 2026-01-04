@@ -7,6 +7,7 @@
 
 ## 📊 LeetCode Stats
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/shreyathorat67/)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shreyathorat67?theme=dark&font=Karma)
 
 ## 🌐 Socials & Contacts:
